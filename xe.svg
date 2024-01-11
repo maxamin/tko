@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://lwlv5yiugb8k8kj3xcduspm2atgl4fs4.oastify.com/2000/svg" baseProfile="full" version="1.1">
-  <polygon fill="#009900" id="triangle" points="0,0 0,50 50,0" stroke="#004400"/>
-  
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" baseProfile="full" xmlns="http://aiwkrn4j20u9u95sj1zjee8rwi2bq1eq.oastify.com/2000/svg">
+  <polygon id="triangle" points="0,0 0,50 50,0" fill="#009900" stroke="#004400"/>
+  <h1>h1</h1>
 </svg>
